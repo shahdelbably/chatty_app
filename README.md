@@ -8,19 +8,19 @@ Chatty is a modern messaging application developed using Flutter, Dart, and Fire
 
 | Welcome Screen | Sign Up |
 |:--------------:|:--------------:|
-| ![Image](https://github.com/user-attachments/assets/946a48d8-0734-4204-837d-b588ea9ccff5) | ![Image](https://github.com/user-attachments/assets/c4c68669-f45f-469d-aaf0-1ab9f8a853dd) |
+| ![Image](https://github.com/user-attachments/assets/b115192a-eb96-4584-b990-be5f537aec01) | ![Image](https://github.com/user-attachments/assets/89516708-94ac-4a07-ab37-7ab200bd5fa4) |
 
 | Profile Setup | Login |
 |:--------------:|:--------------:|
-| ![Image](https://github.com/user-attachments/assets/d97b549a-9901-4ff6-b804-8529530a686f) | ![Image](https://github.com/user-attachments/assets/26937632-7dcb-40d9-8d72-3d63a916b507) |
+| ![Image](https://github.com/user-attachments/assets/06e6cae4-189e-451c-93eb-b5b3c611db57)| ![Image](https://github.com/user-attachments/assets/2ace390c-9ecd-4924-a5b5-9b9aeabc7348) |
 
 | Users List | Home Screen |
 |:--------------:|:--------------:|
-| ![Image](https://github.com/user-attachments/assets/c8167942-4c5c-4b36-ae33-5cb4fb315966) | ![Image](https://github.com/user-attachments/assets/fc2473b6-6539-4dea-8037-bf0e6709823a) |
+| ![Image](https://github.com/user-attachments/assets/fc20f503-e7cb-47fa-8eba-cdb6f88b253c) | ![Image](https://github.com/user-attachments/assets/bc4f9c3c-c9f2-4e3a-9306-53323c368eac) |
 
 Chat Conversation | Empty Chat |
 |:--------------:|:--------------:|
-| ![Image](https://github.com/user-attachments/assets/5060ec3e-1726-429c-a6b8-c5cd13c547fe) | ![Image](https://github.com/user-attachments/assets/bd1cf2be-5475-43fe-a108-703301fbb2b2) |
+| ![Image](https://github.com/user-attachments/assets/766f8a33-89e4-4c7d-93c7-2e49c93369e4) | ![Image](https://github.com/user-attachments/assets/4d940987-8106-46bf-abe2-34dd4762060b) |
 
 ## ✨ Features
 
